@@ -16,5 +16,5 @@ if __name__ == "__main__":
     print("Hello from tommydavies-byte")  #this is a greeting from me
                                           #this is a test comment
 
-    # This is a greeting from al3xirlam1
+    # This is a greeting from a student, al3xirlam1, on the SCCM4910 team
     print("Hello from al3xirlam1")
